@@ -7,9 +7,9 @@ gem 'rails', '~> 7.0', '>= 7.0.2.3'
 
 # HEROKU doesn't support sqlite3.
 # Comment this gem
-gem 'sqlite3', '~> 1.4'
+# gem 'sqlite3', '~> 1.4'
 # and uncomment the following
-# gem 'pg'
+gem 'pg'
 # gem 'thin'
 
 # Use Puma as the app server
