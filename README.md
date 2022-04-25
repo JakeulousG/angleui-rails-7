@@ -18,8 +18,8 @@ Not all of the website theme features are fully tested, so please use at your ow
 
 
 #####  Configuration
-1.) `bundle install`
-2.) `npm install`
-3.) `db:create`
-4.) `rails s`
+1. `bundle install`
+1. `npm install`
+1. `db:create`
+1. `rails s`
 
