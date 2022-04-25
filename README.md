@@ -1,32 +1,25 @@
-# README
+# Angle UI unofficial conversion to Rails 7
+------------
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a rough port of Angle UI inside Rails 7 using webpacker 4.
+Not all of the website theme features are fully tested, so please use at your own risk.
 
-Things you may want to cover:
+------------
 
-* Ruby version
-3.0.3
 
-* Rails Version
-7.0.2.3
+#### Ruby version
+**3.0.3**
 
-* System dependencies
+#### Rails Version
+**7.0.2.3**
 
-* Configuration
-1.) bundle install
-2.) npm install
-3.) db:create
-4.) rails s
 
-* Database creation
+------------
 
-* Database initialization
 
-* How to run the test suite
+#####  Configuration
+1.) `bundle install`
+2.) `npm install`
+3.) `db:create`
+4.) `rails s`
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
